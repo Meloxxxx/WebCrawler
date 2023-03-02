@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# 忽略掉ide
+/.idea
+/__pycache__
+
 # Distribution / packaging
 .Python
 build/
